@@ -35,5 +35,7 @@
   ## Questions:
   The repository for this application can be found at: https://github.com/ncclymer
 
+  This app is deployed via Heroku at: https://travel-budget-tracker-pwa.herokuapp.com/
+
   You can also reach me directly at: nick_clymer2018@yahoo.com
   
